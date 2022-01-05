@@ -15,7 +15,7 @@ Hyuk Joon Hong
 
 * #### Framework
 <p>
-  <img src="https://img.shields.io/badge/nodeJS-3DDC84?style=flat&logo=nodeJS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nodeJS-#339933?style=flat&logo=nodeJS&logoColor=white"/>
 </p>
 
 * #### Database
