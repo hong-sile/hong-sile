@@ -27,10 +27,6 @@ Hyuk Joon Hong
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white">
 </p>
 
-* #### Program
-<p>
-  <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white">
-</p>
 
 * #### IDE
 <p>
@@ -42,19 +38,16 @@ Hyuk Joon Hong
 
 ---
 ### 📋 Project 
-  ##### [Service Deployment] AI ship Identification System Back-End (2021.07 ~ )
-  * ###### 계정 관리, 통계 기능, AI 검색 기능 등과 같은 간단한 API 개발
-  * ###### 데이터 베이스 관리 및 서버 유지 보수
-  * ###### 
+  
 
 ---
 ### 🏅 Algorithm 
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjy11230)](https://solved.ac/cjy11230/)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gurwns9325)](https://solved.ac/gurwns9325/)
 
 ---
 ### 📞Contact
 <p>
-  <img src="https://img.shields.io/badge/cjy11230@kakao.com-FFCD00?style=flat&logo=KakaoTalk&logoColor=black">
-  <img src="https://img.shields.io/badge/jyblessingyou@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white">
-  <img src="http://img.shields.io/badge/jy.__.1107-black?style=flat&logo=Instagram&link=https://instagram.com/jy._.1107">   
+  <img src="https://img.shields.io/badge/gurwns9325@kakao.com-FFCD00?style=flat&logo=KakaoTalk&logoColor=black">
+  <img src="https://img.shields.io/badge/gurwns9325@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white">
+  <img src="http://img.shields.io/badge/gurwns9325-black?style=flat&logo=Instagram&link=https://instagram.com/gurwns9325">   
 </p>
