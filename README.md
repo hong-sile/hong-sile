@@ -47,5 +47,5 @@ Hyuk Joon Hong
 <p>
   <img src="https://img.shields.io/badge/gurwns9325@kakao.com-FFCD00?style=flat&logo=KakaoTalk&logoColor=black">
   <img src="https://img.shields.io/badge/gurwns9325@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white">
-  <img src="http://img.shields.io/badge/hong_sile-black?style=flat&logo=Instagram&link=https://instagram.com/hong_sile">   
+  <a href="https://instagram.com/hong_sile"><img src="http://img.shields.io/badge/hong_sile-black?style=flat&logo=Instagram"></a>
 </p>
