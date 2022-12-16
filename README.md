@@ -1,7 +1,5 @@
 Hyuk Joon Hong
 ---
-#### Backend Engineer
----
 ### 🛠 Stack 🖥
 ###### Techs that I've used at least once.
 * #### Language
